@@ -1,0 +1,83 @@
+{
+  "modal": {
+    "id": "retail-media-cms",
+    "commonButtons": [
+      {
+        "label": "Read more about Retail media CMS",
+        "url": "#"
+      },
+      {
+        "label": "Explore other In-Store solutions →",
+        "url": "#"
+      }
+    ],
+    "hero": {
+      "eyebrow": "IN-STORE > RETAIL MEDIA CMS",
+      "title": "The only in-store CMS built for retail media.",
+      "description": "Stores, screens, ad formats, playlists, campaigns, playback logs, reports - one console. Retailers turn screens into revenue. Brands buy targeted in-store inventory.",
+      "stats": [
+        "2,500+ screens live across 5 banners",
+        "5x digital vs static recall",
+        "6 weeks from pilot to live network"
+      ],
+      "image": {
+        "src": ""
+      }
+    },
+    "features": [
+      {
+        "icon": {
+          "src": ""
+        },
+        "title": "Smart playlists with dayparting",
+        "description": "Brands target peak shopping hours and weekend traffic. Retailers automate seasonal scheduling. Rules-based playlists generate by time, day, location, or trigger."
+      },
+      {
+        "icon": {
+          "src": ""
+        },
+        "title": "Multi-zone artboard editor",
+        "description": "Brands ship campaigns same-day from brand-locked templates. Retailers control the visual layer. Drag-and-drop editor, stock assets, Canva and PowerPoint import."
+      },
+      {
+        "icon": {
+          "src": ""
+        },
+        "title": "Real-time screen health",
+        "description": "Brands trust ads actually played. Retailers fix issues fast. Heartbeat per screen, offline alerts, screenshot capture, remote reboot, brightness control."
+      }
+    ],
+    "relatedApps": {
+      "title": "Apps you may also like:",
+      "items": [
+        {
+          "category": "IN-STORE",
+          "title": "Screen Planogram",
+          "description": "A live map of your whole estate, with status, format, and placement context in one view.",
+          "url": "#",
+          "image": {
+            "src": ""
+          }
+        },
+        {
+          "category": "IN-STORE",
+          "title": "Booking Calendar",
+          "description": "Plan, price, and book inventory across screens and physical placements, one workflow for every in-store campaign.",
+          "url": "#",
+          "image": {
+            "src": ""
+          }
+        },
+        {
+          "category": "IN-STORE",
+          "title": "Physical Media",
+          "description": "Manage every analog placement as bookable inventory, floor decals, standees, wobblers, food demos, and end-caps.",
+          "url": "#",
+          "image": {
+            "src": ""
+          }
+        }
+      ]
+    }
+  }
+}
